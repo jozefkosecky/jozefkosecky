@@ -53,7 +53,7 @@ I'm passionate mobile developer. I have experience with native Android and with 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 <!--
 **jozefkosecky/jozefkosecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
