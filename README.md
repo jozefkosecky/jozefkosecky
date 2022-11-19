@@ -46,7 +46,8 @@ I'm passionate mobile developer. I have experience with native Android and with 
   
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefkosecky&hide_border=true&layout=compact" align="left" style="width: 90%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozefkosecky)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </td></tr></table>
 <br />
