@@ -42,10 +42,12 @@ I'm passionate mobile developer. I have experience with native Android and with 
 ## Github Stats  
 <table><tr><td valign="top" width="10%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jozefkosecky&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 40%" />
+
   
 </td></tr></table>
 <br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jozefkosecky&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 50%" />
 
 ----
 
