@@ -44,10 +44,6 @@ I'm passionate mobile developer. I have experience with native Android and with 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jozefkosecky&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 90%" />
   
-</td><td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefkosecky&hide_border=true&layout=compact&langs_count=8&theme=transparent&exclude_repo=vrs_cvicenia_6" align="left" style="width: 90%" />
-  
 </td></tr></table>
 <br />
 
