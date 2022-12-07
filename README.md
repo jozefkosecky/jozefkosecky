@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm passionate mobile developer. I have experience with native Android and with Flutter. For mobile apps I making frontend and backend too.
+I am a passionate mobile developer. I have experience with native Android and Flutter. I also develop both frontend and backend for mobile apps.
   
   
 
