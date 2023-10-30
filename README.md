@@ -15,7 +15,11 @@
 
 
 ### Glad to see you here!  
-I am a passionate mobile developer. I have experience with native Android and Flutter. I also develop both frontend and backend for mobile apps.
+I'm a dedicated mobile developer with a strong passion for crafting intuitive and performant applications. My expertise lies in:
+
+- **Native Android Development**: Building efficient and scalable Android apps using Kotlin/Java.
+- **Flutter Development**: Crafting cross-platform mobile applications with a seamless user experience.
+- **Full-Stack Mobile Development**: Proficient in both frontend and backend, ensuring a cohesive app development process.
   
   
 
@@ -63,4 +67,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
